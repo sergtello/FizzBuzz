@@ -17,7 +17,7 @@ for (int i=1;i<=100;i++){
 	
 	if(i%5==0){
 		//cout<<"Buzz"<<endl;
-		Fizz.push_back(i);
+		Buzz.push_back(i);
 	continue;}
 	//cout<<i<<endl;
 }
