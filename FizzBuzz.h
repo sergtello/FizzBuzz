@@ -19,7 +19,7 @@ for (int i=1;i<=100;i++){
 		//cout<<"Buzz"<<endl;
 		Fizz.push_back(i);
 	continue;}
-	cout<<i<<endl;
+	//cout<<i<<endl;
 }
 
 for (int i=0;i<Fizz.size();i++) cout<<Fizz[i]<<"\t";
